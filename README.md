@@ -1,5 +1,7 @@
 # Cartesian-Tree
-Among the overview of data structure to manage and organise information, there is a particular model, based on the properties of an ordered **heap** and in the meantime in a symmetric (in-order) traversal of the tree, that returns the original sequence. This is the **Cartesian tree**, a binary tree derived from a sequence of numbers. 
+Among the overview of data structure to manage and organise information, there is a particular model, based on the properties of an ordered 
+
+**heap** and in the meantime in a symmetric (in-order) traversal of the tree, that returns the original sequence. This is the **Cartesian tree**, a binary tree derived from a sequence of numbers. 
 
 This data structure could have several applications,in fact it could be used:
 
